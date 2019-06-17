@@ -1,0 +1,1 @@
+Small Go tool for creating compressed and decompressed RPICoin keys.
